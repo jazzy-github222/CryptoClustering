@@ -13,5 +13,5 @@ For the full analysis please see the details inside my code. For the shortend de
 * K-Means initialization can also impact cluster formation.
 
 ## Happy Coding 🎉
-![pic1]()
-![pic2]()
+![pic1](https://images.unsplash.com/photo-1605792657660-596af9009e82?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3J5cHRvfGVufDB8MHwwfHx8Mg%3D%3D)
+![pic2](https://images.unsplash.com/photo-1621932953986-15fcf084da0f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNyeXB0b3xlbnwwfDB8MHx8fDI%3D)
